@@ -1,6 +1,6 @@
 # Neighborhood Map Project
 
-- Project 6 under the Full Stack Web Developer Nanodegree at Udacity
+- Project 5 under the Full Stack Web Developer Nanodegree at Udacity
 
 
 ### Technical Specifications
