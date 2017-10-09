@@ -6,7 +6,7 @@
 ### Technical Specifications
 
 -JqueryminJS 1.12.0
-- KnockoutJS 3.4.0
+- KnockoutJS 3.3.0
 - Google Maps API and Foursquare API
 
 ### Details
